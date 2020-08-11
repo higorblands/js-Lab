@@ -13,8 +13,8 @@ if(loveScore > 70){
     console.log(stName +' you matched ' +loveScore+ '% with ' + ndName + ' this is a hot love.' );
 }
 if(loveScore < 70 && loveScore > 50){
-    console.log(stName + 'you matched ' +loveScore+ '% with ' + ndName + ' this is normal love.');
+    console.log(stName + ' you matched ' +loveScore+ '% with ' + ndName + ' this is normal love.');
 }
 if(loveScore <= 49){
-    console.log(stName + 'you matched ' +loveScore+ '% with ' + ndName + ' this love needs more fire.');
+    console.log(stName + ' you matched ' +loveScore+ '% with ' + ndName + ' this love needs more fire.');
 }
